@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfClient", "WcfClient\WcfClient.csproj", "{F9990097-04A8-44E3-B535-23A420F15EFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{1DB29288-25A2-4408-B5D1-2877C3E917FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F9990097-04A8-44E3-B535-23A420F15EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9990097-04A8-44E3-B535-23A420F15EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9990097-04A8-44E3-B535-23A420F15EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB29288-25A2-4408-B5D1-2877C3E917FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB29288-25A2-4408-B5D1-2877C3E917FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB29288-25A2-4408-B5D1-2877C3E917FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB29288-25A2-4408-B5D1-2877C3E917FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

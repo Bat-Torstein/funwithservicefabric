@@ -6,3 +6,5 @@
 /WcfClient/bin
 /WcfService/obj
 /WcfService/bin
+/Shared/obj
+/Shared/bin
