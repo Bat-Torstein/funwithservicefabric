@@ -8,3 +8,9 @@
 /WcfService/bin
 /Shared/obj
 /Shared/bin
+/StateService/obj
+/StateService/bin
+/WcfHosting/obj
+/WcfHosting/bin
+/StateService/*.user
+/StateService/pkg/Debug
